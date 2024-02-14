@@ -54,5 +54,3 @@ function function2(){
 function function3(){
   alert('Rock With Premium');
 }
-//fu v7igukv 
-//ugl ygoiu y g k b8
